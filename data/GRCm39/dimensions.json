@@ -1,0 +1,515 @@
+{
+  "age": {
+    "name": "Age",
+    "values": [
+      {
+        "unit": "unknown",
+        "max_value": "unknown",
+        "min_value": "unknown"
+      },
+      {
+        "unit": "month",
+        "max_value": "2",
+        "min_value": "2"
+      },
+      {
+        "unit": "week",
+        "max_value": "24",
+        "min_value": "13.5"
+      },
+      {
+        "unit": "day",
+        "max_value": "16.5",
+        "min_value": "0"
+      }
+    ]
+  },
+  "sex": {
+    "name": "Sex",
+    "values": [
+      "female",
+      "mixed",
+      "male",
+      "unknown"
+    ]
+  },
+  "term": {
+    "name": "Biosample term",
+    "values": [
+      {
+        "name": "stomach",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000945"
+      },
+      {
+        "name": "embryonic fibroblast",
+        "ontology": "http://purl.obolibrary.org/obo/CL_2000042"
+      },
+      {
+        "name": "ES-E14",
+        "ontology": "http://purl.obolibrary.org/obo/EFO_0007075"
+      },
+      {
+        "name": "MEL",
+        "ontology": "http://purl.obolibrary.org/obo/EFO_0003971"
+      },
+      {
+        "name": "testis",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000473"
+      },
+      {
+        "name": "bone marrow",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002371"
+      },
+      {
+        "name": "liver",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002107"
+      },
+      {
+        "name": "hindbrain",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002028"
+      },
+      {
+        "name": "cortical plate",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0005343"
+      },
+      {
+        "name": "thymus",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002370"
+      },
+      {
+        "name": "brain",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000955"
+      },
+      {
+        "name": "kidney",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002113"
+      },
+      {
+        "name": "heart",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000948"
+      },
+      {
+        "name": "midbrain",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001891"
+      },
+      {
+        "name": "CH12.LX",
+        "ontology": "http://purl.obolibrary.org/obo/EFO_0005233"
+      },
+      {
+        "name": "brown adipose tissue",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001348"
+      },
+      {
+        "name": "embryonic facial prominence",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0012314"
+      },
+      {
+        "name": "small intestine",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002108"
+      },
+      {
+        "name": "olfactory bulb",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002264"
+      },
+      {
+        "name": "placenta",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001987"
+      },
+      {
+        "name": "intestine",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000160"
+      },
+      {
+        "name": "neural tube",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001049"
+      },
+      {
+        "name": "forebrain",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001890"
+      },
+      {
+        "name": "lung",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002048"
+      },
+      {
+        "name": "ES-Bruce4",
+        "ontology": "http://purl.obolibrary.org/obo/EFO_0005483"
+      },
+      {
+        "name": "bone marrow macrophage",
+        "ontology": "http://purl.obolibrary.org/obo/CL_0002476"
+      },
+      {
+        "name": "spleen",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002106"
+      },
+      {
+        "name": "limb",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002101"
+      },
+      {
+        "name": "cerebellum",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002037"
+      }
+    ]
+  },
+  "material": {
+    "name": "Biosample material",
+    "values": [
+      "Primary Tissue",
+      "Cell Line",
+      "Primary Cell"
+    ]
+  },
+  "life_stage": {
+    "name": "Life stage",
+    "values": [
+      "embryonic",
+      "adult",
+      "unknown",
+      "postnatal"
+    ]
+  },
+  "organ_slims": {
+    "name": "Organ",
+    "values": [
+      {
+        "name": "exocrine gland",
+        "terms": [
+          "liver"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002365"
+      },
+      {
+        "name": "extraembryonic component",
+        "terms": [
+          "placenta"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0016887"
+      },
+      {
+        "name": "limb",
+        "terms": [
+          "limb"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002101"
+      },
+      {
+        "name": "small intestine",
+        "terms": [
+          "small intestine"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002108"
+      },
+      {
+        "name": "blood",
+        "terms": [
+          "CH12.LX"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      {
+        "name": "liver",
+        "terms": [
+          "liver"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002107"
+      },
+      {
+        "name": "connective tissue",
+        "terms": [
+          "brown adipose tissue",
+          "embryonic fibroblast"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002384"
+      },
+      {
+        "name": "gonad",
+        "terms": [
+          "testis"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000991"
+      },
+      {
+        "name": "bodily fluid",
+        "terms": [
+          "CH12.LX"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0006314"
+      },
+      {
+        "name": "thymus",
+        "terms": [
+          "thymus"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002370"
+      },
+      {
+        "name": "intestine",
+        "terms": [
+          "intestine",
+          "small intestine"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000160"
+      },
+      {
+        "name": "brain",
+        "terms": [
+          "brain",
+          "cerebellum",
+          "cortical plate",
+          "forebrain",
+          "hindbrain",
+          "midbrain",
+          "olfactory bulb"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000955"
+      },
+      {
+        "name": "lung",
+        "terms": [
+          "lung"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002048"
+      },
+      {
+        "name": "endocrine gland",
+        "terms": [
+          "liver",
+          "thymus"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002368"
+      },
+      {
+        "name": "heart",
+        "terms": [
+          "heart"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000948"
+      },
+      {
+        "name": "adipose tissue",
+        "terms": [
+          "brown adipose tissue"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001013"
+      },
+      {
+        "name": "bone element",
+        "terms": [
+          "bone marrow",
+          "bone marrow macrophage"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001474"
+      },
+      {
+        "name": "testis",
+        "terms": [
+          "testis"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000473"
+      },
+      {
+        "name": "lymph node",
+        "terms": [
+          "CH12.LX"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000029"
+      },
+      {
+        "name": "stomach",
+        "terms": [
+          "stomach"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000945"
+      },
+      {
+        "name": "immune organ",
+        "terms": [
+          "MEL",
+          "spleen",
+          "thymus"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0005057"
+      },
+      {
+        "name": "epithelium",
+        "terms": [
+          "neural tube"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000483"
+      },
+      {
+        "name": "bone marrow",
+        "terms": [
+          "bone marrow",
+          "bone marrow macrophage"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002371"
+      },
+      {
+        "name": "kidney",
+        "terms": [
+          "kidney"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002113"
+      },
+      {
+        "name": "placenta",
+        "terms": [
+          "placenta"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001987"
+      },
+      {
+        "name": "spleen",
+        "terms": [
+          "MEL",
+          "spleen"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002106"
+      },
+      {
+        "name": "embryo",
+        "terms": [
+          "embryonic facial prominence",
+          "embryonic fibroblast",
+          "ES-Bruce4",
+          "ES-E14",
+          "neural tube"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000922"
+      }
+    ]
+  },
+  "system_slims": {
+    "name": "System",
+    "values": [
+      {
+        "name": "exocrine system",
+        "terms": [
+          "liver"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002330"
+      },
+      {
+        "name": "endocrine system",
+        "terms": [
+          "liver",
+          "thymus"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000949"
+      },
+      {
+        "name": "immune system",
+        "terms": [
+          "bone marrow",
+          "bone marrow macrophage",
+          "CH12.LX",
+          "MEL",
+          "spleen",
+          "thymus"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002405"
+      },
+      {
+        "name": "circulatory system",
+        "terms": [
+          "heart"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001009"
+      },
+      {
+        "name": "skeletal system",
+        "terms": [
+          "bone marrow",
+          "bone marrow macrophage",
+          "limb"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001434"
+      },
+      {
+        "name": "respiratory system",
+        "terms": [
+          "lung"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001004"
+      },
+      {
+        "name": "digestive system",
+        "terms": [
+          "intestine",
+          "liver",
+          "MEL",
+          "small intestine",
+          "spleen",
+          "stomach"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001007"
+      },
+      {
+        "name": "central nervous system",
+        "terms": [
+          "brain",
+          "cerebellum",
+          "cortical plate",
+          "forebrain",
+          "hindbrain",
+          "midbrain",
+          "olfactory bulb"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001017"
+      },
+      {
+        "name": "musculature",
+        "terms": [
+          "limb"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001015"
+      },
+      {
+        "name": "reproductive system",
+        "terms": [
+          "placenta",
+          "testis"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000990"
+      },
+      {
+        "name": "excretory system",
+        "terms": [
+          "kidney"
+        ],
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_8450002"
+      }
+    ]
+  },
+  "assay_type": {
+    "name": "Assay type",
+    "values": [
+      "ATAC-seq",
+      "DNase-seq",
+      "ChIP-seq"
+    ]
+  },
+  "assay_target": {
+    "name": "Assay target",
+    "values": [
+      "H3K27me3",
+      "H3K4me3",
+      "H3K27ac",
+      "open chromatin",
+      "H3K4me1",
+      "CTCF"
+    ]
+  },
+  "assay_target_type": {
+    "name": "Assay target type",
+    "values": [
+      "transcription factor",
+      "histone",
+      "open chromatin"
+    ]
+  }
+}

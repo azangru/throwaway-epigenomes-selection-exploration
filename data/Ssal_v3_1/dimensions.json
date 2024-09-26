@@ -1,0 +1,99 @@
+{
+  "age": {
+    "name": "Age",
+    "values": [
+      {
+        "unit": "month",
+        "max_value": "16",
+        "min_value": "9"
+      },
+      {
+        "unit": "thermal time",
+        "max_value": "132",
+        "min_value": "27.5"
+      }
+    ]
+  },
+  "sex": {
+    "name": "Sex",
+    "values": [
+      "female",
+      "phenotypic",
+      "male"
+    ]
+  },
+  "term": {
+    "name": "Biosample term",
+    "values": [
+      {
+        "name": "liver",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002107"
+      },
+      {
+        "name": "fast muscle tissue",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0006908"
+      },
+      {
+        "name": "brain",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000955"
+      },
+      {
+        "name": "immature gonad",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_2005272"
+      },
+      {
+        "name": "gonad",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000991"
+      },
+      {
+        "name": "gill filament",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0009120"
+      },
+      {
+        "name": "embryo",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000922"
+      }
+    ]
+  },
+  "material": {
+    "name": "Biosample material",
+    "values": [
+      "Primary Tissue"
+    ]
+  },
+  "life_stage": {
+    "name": "Life stage",
+    "values": [
+      "pharyngula",
+      "blastula",
+      "gastrula",
+      "post-juvenile adult",
+      "sexually immature",
+      "segmentation"
+    ]
+  },
+  "assay_type": {
+    "name": "Assay type",
+    "values": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ]
+  },
+  "assay_target": {
+    "name": "Assay target",
+    "values": [
+      "H3K27me3",
+      "H3K4me3",
+      "H3K27ac",
+      "open chromatin",
+      "H3K4me1"
+    ]
+  },
+  "assay_target_type": {
+    "name": "Assay target type",
+    "values": [
+      "histone",
+      "open chromatin"
+    ]
+  }
+}

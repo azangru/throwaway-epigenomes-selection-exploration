@@ -1,0 +1,284 @@
+[
+  {
+    "name": "cerebellum (m, 14 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "14.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "cerebellum",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Cerebellum (m, 14 m)",
+      "ChIP-seq (CTCF): Cerebellum (m, 14 m)",
+      "ChIP-seq (H3K27ac): Cerebellum (m, 14 m)",
+      "ChIP-seq (H3K27me3): Cerebellum (m, 14 m)",
+      "ChIP-seq (H3K4me1): Cerebellum (m, 14 m)",
+      "ChIP-seq (H3K4me3): Cerebellum (m, 14 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "frontal cortex (m, 14 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "14.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "frontal cortex",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Frontal cortex (m, 14 m)",
+      "ChIP-seq (CTCF): Frontal cortex (m, 14 m)",
+      "ChIP-seq (H3K27ac): Frontal cortex (m, 14 m)",
+      "ChIP-seq (H3K27me3): Frontal cortex (m, 14 m)",
+      "ChIP-seq (H3K4me1): Frontal cortex (m, 14 m)",
+      "ChIP-seq (H3K4me3): Frontal cortex (m, 14 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hypothalamus (m, 14 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "14.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "hypothalamus",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Hypothalamus (m, 14 m)",
+      "ChIP-seq (CTCF): Hypothalamus (m, 14 m)",
+      "ChIP-seq (H3K27ac): Hypothalamus (m, 14 m)",
+      "ChIP-seq (H3K27me3): Hypothalamus (m, 14 m)",
+      "ChIP-seq (H3K4me1): Hypothalamus (m, 14 m)",
+      "ChIP-seq (H3K4me3): Hypothalamus (m, 14 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "left lung lobe (m, 14 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "14.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "left lung lobe",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Left lung lobe (m, 14 m)",
+      "ChIP-seq (CTCF): Left lung lobe (m, 14 m)",
+      "ChIP-seq (H3K27ac): Left lung lobe (m, 14 m)",
+      "ChIP-seq (H3K27me3): Left lung lobe (m, 14 m)",
+      "ChIP-seq (H3K4me1): Left lung lobe (m, 14 m)",
+      "ChIP-seq (H3K4me3): Left lung lobe (m, 14 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "lobe of liver (m, 14 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "14.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "lobe of liver",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Lobe of liver (m, 14 m)",
+      "ChIP-seq (H3K27ac): Lobe of liver (m, 14 m)",
+      "ChIP-seq (H3K27me3): Lobe of liver (m, 14 m)",
+      "ChIP-seq (H3K4me1): Lobe of liver (m, 14 m)",
+      "ChIP-seq (H3K4me3): Lobe of liver (m, 14 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "longissimus dorsi muscle (m, 14 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "14.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "longissimus dorsi muscle",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Longissimus dorsi muscle (m, 14 m)",
+      "ChIP-seq (CTCF): Longissimus dorsi muscle (m, 14 m)",
+      "ChIP-seq (H3K27ac): Longissimus dorsi muscle (m, 14 m)",
+      "ChIP-seq (H3K27me3): Longissimus dorsi muscle (m, 14 m)",
+      "ChIP-seq (H3K4me1): Longissimus dorsi muscle (m, 14 m)",
+      "ChIP-seq (H3K4me3): Longissimus dorsi muscle (m, 14 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "spleen (m, 14 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "14.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "spleen",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Spleen (m, 14 m)",
+      "ChIP-seq (CTCF): Spleen (m, 14 m)",
+      "ChIP-seq (H3K27ac): Spleen (m, 14 m)",
+      "ChIP-seq (H3K27me3): Spleen (m, 14 m)",
+      "ChIP-seq (H3K4me1): Spleen (m, 14 m)",
+      "ChIP-seq (H3K4me3): Spleen (m, 14 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "subcutaneous adipose tissue (m, 14 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "14.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "subcutaneous adipose tissue",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Subcutaneous adipose tissue (m, 14 m)",
+      "ChIP-seq (H3K27ac): Subcutaneous adipose tissue (m, 14 m)",
+      "ChIP-seq (H3K27me3): Subcutaneous adipose tissue (m, 14 m)",
+      "ChIP-seq (H3K4me1): Subcutaneous adipose tissue (m, 14 m)",
+      "ChIP-seq (H3K4me3): Subcutaneous adipose tissue (m, 14 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  }
+]

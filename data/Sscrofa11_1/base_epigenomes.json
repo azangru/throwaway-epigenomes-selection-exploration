@@ -1,0 +1,1233 @@
+[
+  {
+    "name": "adipose tissue (m, 6 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "6.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "adipose tissue",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Adipose tissue (m, 6 m)",
+      "ChIP-seq (CTCF): Adipose tissue (m, 6 m)",
+      "ChIP-seq (H3K27ac): Adipose tissue (m, 6 m)",
+      "ChIP-seq (H3K27me3): Adipose tissue (m, 6 m)",
+      "ChIP-seq (H3K4me1): Adipose tissue (m, 6 m)",
+      "ChIP-seq (H3K4me3): Adipose tissue (m, 6 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "cerebellum (f, 1 d)",
+    "material": "Primary Tissue",
+    "life_stage": "neonate",
+    "age": "1.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "cerebellum",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Cerebellum (f, 1 day)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "cerebellum (f, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "cerebellum",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Cerebellum (f, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "cerebellum (m, 1 d)",
+    "material": "Primary Tissue",
+    "life_stage": "neonate",
+    "age": "1.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "cerebellum",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Cerebellum (m, 1 day)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "cerebellum (m, 6 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "6.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "cerebellum",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Cerebellum (m, 6 m)",
+      "ChIP-seq (CTCF): Cerebellum (m, 6 m)",
+      "ChIP-seq (H3K27ac): Cerebellum (m, 6 m)",
+      "ChIP-seq (H3K27me3): Cerebellum (m, 6 m)",
+      "ChIP-seq (H3K4me1): Cerebellum (m, 6 m)",
+      "ChIP-seq (H3K4me3): Cerebellum (m, 6 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "cerebellum (m, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "cerebellum",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Cerebellum (m, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "cortex (m, 6 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "6.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "cortex",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Cortex (m, 6 m)",
+      "ChIP-seq (CTCF): Cortex (m, 6 m)",
+      "ChIP-seq (H3K27ac): Cortex (m, 6 m)",
+      "ChIP-seq (H3K27me3): Cortex (m, 6 m)",
+      "ChIP-seq (H3K4me1): Cortex (m, 6 m)",
+      "ChIP-seq (H3K4me3): Cortex (m, 6 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "gluteus medius (f, 1 d)",
+    "material": "Primary Tissue",
+    "life_stage": "neonate",
+    "age": "1.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "gluteus medius",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Gluteus medius (f, 1 day)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "gluteus medius (m, 1 d)",
+    "material": "Primary Tissue",
+    "life_stage": "neonate",
+    "age": "1.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "gluteus medius",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Gluteus medius (m, 1 day)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindbrain (f, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "hindbrain",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Hindbrain (f, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindbrain (m, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "hindbrain",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Hindbrain (m, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindlimb muscle (f, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "hindlimb muscle",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Hindlimb muscle (f, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindlimb muscle (f, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "hindlimb muscle",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Hindlimb muscle (f, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindlimb muscle (m, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "hindlimb muscle",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Hindlimb muscle (m, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindlimb muscle (m, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "hindlimb muscle",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Hindlimb muscle (m, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hypothalamus (m, 6 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "6.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "hypothalamus",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Hypothalamus (m, 6 m)",
+      "ChIP-seq (CTCF): Hypothalamus (m, 6 m)",
+      "ChIP-seq (H3K27ac): Hypothalamus (m, 6 m)",
+      "ChIP-seq (H3K27me3): Hypothalamus (m, 6 m)",
+      "ChIP-seq (H3K4me1): Hypothalamus (m, 6 m)",
+      "ChIP-seq (H3K4me3): Hypothalamus (m, 6 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "ileum (f, 1 d)",
+    "material": "Primary Tissue",
+    "life_stage": "neonate",
+    "age": "1.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "ileum",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Ileum (f, 1 day)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "ileum (m, 1 d)",
+    "material": "Primary Tissue",
+    "life_stage": "neonate",
+    "age": "1.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "ileum",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Ileum (m, 1 day)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "kidney (f, 1 d)",
+    "material": "Primary Tissue",
+    "life_stage": "neonate",
+    "age": "1.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "kidney",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Kidney (f, 1 day)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "kidney (f, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "kidney",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Kidney (f, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "kidney (m, 1 d)",
+    "material": "Primary Tissue",
+    "life_stage": "neonate",
+    "age": "1.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "kidney",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Kidney (m, 1 day)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "kidney (m, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "kidney",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Kidney (m, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (f, 1 d)",
+    "material": "Primary Tissue",
+    "life_stage": "neonate",
+    "age": "1.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "liver",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Liver (f, 1 day)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (f, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "liver",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Liver (f, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (f, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "liver",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Liver (f, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (m, 1 d)",
+    "material": "Primary Tissue",
+    "life_stage": "neonate",
+    "age": "1.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "liver",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Liver (m, 1 day)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (m, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "liver",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Liver (m, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (m, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "liver",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Liver (m, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "lobe of liver (m, 6 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "6.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "lobe of liver",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Lobe of liver (m, 6 m)",
+      "ChIP-seq (CTCF): Lobe of liver (m, 6 m)",
+      "ChIP-seq (H3K27ac): Lobe of liver (m, 6 m)",
+      "ChIP-seq (H3K27me3): Lobe of liver (m, 6 m)",
+      "ChIP-seq (H3K4me1): Lobe of liver (m, 6 m)",
+      "ChIP-seq (H3K4me3): Lobe of liver (m, 6 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "lung (f, 1 d)",
+    "material": "Primary Tissue",
+    "life_stage": "neonate",
+    "age": "1.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "lung",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Lung (f, 1 day)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "lung (f, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "lung",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Lung (f, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "lung (f, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "lung",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Lung (f, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "lung (m, 1 d)",
+    "material": "Primary Tissue",
+    "life_stage": "neonate",
+    "age": "1.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "lung",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Lung (m, 1 day)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "lung (m, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "lung",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Lung (m, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "lung (m, 6 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "6.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "lung",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Lung (m, 6 m)",
+      "ChIP-seq (CTCF): Lung (m, 6 m)",
+      "ChIP-seq (H3K27ac): Lung (m, 6 m)",
+      "ChIP-seq (H3K27me3): Lung (m, 6 m)",
+      "ChIP-seq (H3K4me1): Lung (m, 6 m)",
+      "ChIP-seq (H3K4me3): Lung (m, 6 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "lung (m, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "lung",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Lung (m, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "mesonephros (f, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "mesonephros",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Mesonephros (f, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "mesonephros (m, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "mesonephros",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Mesonephros (m, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "skeletal muscle tissue (m, 6 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "6.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "skeletal muscle tissue",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Skeletal muscle tissue (m, 6 m)",
+      "ChIP-seq (CTCF): Skeletal muscle tissue (m, 6 m)",
+      "ChIP-seq (H3K27ac): Skeletal muscle tissue (m, 6 m)",
+      "ChIP-seq (H3K27me3): Skeletal muscle tissue (m, 6 m)",
+      "ChIP-seq (H3K4me1): Skeletal muscle tissue (m, 6 m)",
+      "ChIP-seq (H3K4me3): Skeletal muscle tissue (m, 6 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "skin of back (f, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "skin of back",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Skin of back (f, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "skin of back (m, 1 d)",
+    "material": "Primary Tissue",
+    "life_stage": "neonate",
+    "age": "1.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "skin of back",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Skin of back (m, 1 day)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "skin of back (m, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "skin of back",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Skin of back (m, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "skin of body (f, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "skin of body",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Skin of body (f, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "skin of body (m, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "skin of body",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Skin of body (m, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "small intestine (f, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "small intestine",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Small intestine (f, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "small intestine (f, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "female",
+    "term": "small intestine",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Small intestine (f, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "small intestine (m, 30 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "30.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "small intestine",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Small intestine (m, 30 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "small intestine (m, 70 dpf)",
+    "material": "Primary Tissue",
+    "life_stage": "embryo",
+    "age": "70.0",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "small intestine",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Small intestine (m, 70 dpf)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "spleen (m, 6 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "6.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "spleen",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Spleen (m, 6 m)",
+      "ChIP-seq (CTCF): Spleen (m, 6 m)",
+      "ChIP-seq (H3K27ac): Spleen (m, 6 m)",
+      "ChIP-seq (H3K27me3): Spleen (m, 6 m)",
+      "ChIP-seq (H3K4me1): Spleen (m, 6 m)",
+      "ChIP-seq (H3K4me3): Spleen (m, 6 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  }
+]

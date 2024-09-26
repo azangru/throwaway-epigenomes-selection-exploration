@@ -1,0 +1,10 @@
+.grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 1rem;
+}
+
+.epigenomesContainer {
+  border-left: 1px solid;
+  padding-left: 1.6rem;
+}

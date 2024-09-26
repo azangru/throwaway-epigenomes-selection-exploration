@@ -1,0 +1,3706 @@
+[
+  {
+    "name": "bone marrow (m, 2 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "2.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "bone marrow",
+    "organ_slims": [
+      "bone marrow",
+      "bone element"
+    ],
+    "system_slims": [
+      "immune system",
+      "skeletal system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Bone marrow (m, 2 m)",
+      "ChIP-seq (H3K27ac): Bone marrow (m, 2 m)",
+      "ChIP-seq (H3K4me1): Bone marrow (m, 2 m)",
+      "ChIP-seq (H3K4me3): Bone marrow (m, 2 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "bone marrow macrophage (m, 2 mo)",
+    "material": "Primary Cell",
+    "life_stage": "adult",
+    "age": "2.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "bone marrow macrophage",
+    "organ_slims": [
+      "bone marrow",
+      "bone element"
+    ],
+    "system_slims": [
+      "immune system",
+      "skeletal system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Bone marrow macrophage (m, 2 m)",
+      "ChIP-seq (H3K27ac): Bone marrow macrophage (m, 2 m)",
+      "ChIP-seq (H3K4me1): Bone marrow macrophage (m, 2 m)",
+      "ChIP-seq (H3K4me3): Bone marrow macrophage (m, 2 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "brain (14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "brain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "DNase-seq: Brain (14.5 d)"
+    ],
+    "assay_types": [
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "brown adipose tissue (m, 24 w)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "24.0",
+    "age_unit": "week",
+    "sex": "male",
+    "term": "brown adipose tissue",
+    "organ_slims": [
+      "connective tissue",
+      "adipose tissue"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ChIP-seq (H3K27ac): Brown adipose tissue (m, 24 w)",
+      "ChIP-seq (H3K4me1): Brown adipose tissue (m, 24 w)",
+      "ChIP-seq (H3K4me3): Brown adipose tissue (m, 24 w)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "cerebellum (m, 2 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "2.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "cerebellum",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Cerebellum (m, 2 m)",
+      "ChIP-seq (H3K27ac): Cerebellum (m, 2 m)",
+      "ChIP-seq (H3K27me3): Cerebellum (m, 2 m)",
+      "ChIP-seq (H3K4me1): Cerebellum (m, 2 m)",
+      "ChIP-seq (H3K4me3): Cerebellum (m, 2 m)",
+      "DNase-seq: Cerebellum (m, 2 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "CH12.LX (f)",
+    "material": "Cell Line",
+    "life_stage": "unknown",
+    "age": "unknown",
+    "age_unit": null,
+    "sex": "female",
+    "term": "CH12.LX",
+    "organ_slims": [
+      "blood",
+      "lymph node",
+      "bodily fluid"
+    ],
+    "system_slims": [
+      "immune system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Ch12.lx (f)",
+      "ChIP-seq (H3K27ac): Ch12.lx (f)",
+      "ChIP-seq (H3K27me3): Ch12.lx (f)",
+      "ChIP-seq (H3K4me1): Ch12.lx (f)",
+      "ChIP-seq (H3K4me3): Ch12.lx (f)",
+      "DNase-seq: Ch12.lx (f)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "cortical plate (m, 2 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "2.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "cortical plate",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Cortical plate (m, 2 m)",
+      "ChIP-seq (H3K27ac): Cortical plate (m, 2 m)",
+      "ChIP-seq (H3K4me1): Cortical plate (m, 2 m)",
+      "ChIP-seq (H3K4me3): Cortical plate (m, 2 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "embryonic facial prominence (m, 10.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "10.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "embryonic facial prominence",
+    "organ_slims": [
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ChIP-seq (H3K27ac): Embryonic facial prominence (m, 10.5 d)",
+      "ChIP-seq (H3K27me3): Embryonic facial prominence (m, 10.5 d)",
+      "ChIP-seq (H3K4me1): Embryonic facial prominence (m, 10.5 d)",
+      "ChIP-seq (H3K4me3): Embryonic facial prominence (m, 10.5 d)",
+      "DNase-seq: Embryonic facial prominence (m, 10.5 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "embryonic facial prominence (m, 11.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "11.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "embryonic facial prominence",
+    "organ_slims": [
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ATAC-seq: Embryonic facial prominence (m, 11.5 d)",
+      "ChIP-seq (H3K27ac): Embryonic facial prominence (m, 11.5 d)",
+      "ChIP-seq (H3K27me3): Embryonic facial prominence (m, 11.5 d)",
+      "ChIP-seq (H3K4me1): Embryonic facial prominence (m, 11.5 d)",
+      "ChIP-seq (H3K4me3): Embryonic facial prominence (m, 11.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "embryonic facial prominence (m, 12.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "12.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "embryonic facial prominence",
+    "organ_slims": [
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ATAC-seq: Embryonic facial prominence (m, 12.5 d)",
+      "ChIP-seq (H3K27ac): Embryonic facial prominence (m, 12.5 d)",
+      "ChIP-seq (H3K27me3): Embryonic facial prominence (m, 12.5 d)",
+      "ChIP-seq (H3K4me1): Embryonic facial prominence (m, 12.5 d)",
+      "ChIP-seq (H3K4me3): Embryonic facial prominence (m, 12.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "embryonic facial prominence (m, 13.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "13.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "embryonic facial prominence",
+    "organ_slims": [
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ATAC-seq: Embryonic facial prominence (m, 13.5 d)",
+      "ChIP-seq (H3K27ac): Embryonic facial prominence (m, 13.5 d)",
+      "ChIP-seq (H3K27me3): Embryonic facial prominence (m, 13.5 d)",
+      "ChIP-seq (H3K4me1): Embryonic facial prominence (m, 13.5 d)",
+      "ChIP-seq (H3K4me3): Embryonic facial prominence (m, 13.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "embryonic facial prominence (m, 14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "embryonic facial prominence",
+    "organ_slims": [
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ATAC-seq: Embryonic facial prominence (m, 14.5 d)",
+      "ChIP-seq (H3K27ac): Embryonic facial prominence (m, 14.5 d)",
+      "ChIP-seq (H3K27me3): Embryonic facial prominence (m, 14.5 d)",
+      "ChIP-seq (H3K4me1): Embryonic facial prominence (m, 14.5 d)",
+      "ChIP-seq (H3K4me3): Embryonic facial prominence (m, 14.5 d)",
+      "DNase-seq: Embryonic facial prominence (m, 14.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "embryonic facial prominence (m, 15.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "15.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "embryonic facial prominence",
+    "organ_slims": [
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ATAC-seq: Embryonic facial prominence (m, 15.5 d)",
+      "ChIP-seq (H3K27ac): Embryonic facial prominence (m, 15.5 d)",
+      "ChIP-seq (H3K27me3): Embryonic facial prominence (m, 15.5 d)",
+      "ChIP-seq (H3K4me1): Embryonic facial prominence (m, 15.5 d)",
+      "ChIP-seq (H3K4me3): Embryonic facial prominence (m, 15.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "embryonic fibroblast (m, 13.5 w)",
+    "material": "Primary Cell",
+    "life_stage": "embryonic",
+    "age": "13.5",
+    "age_unit": "week",
+    "sex": "male",
+    "term": "embryonic fibroblast",
+    "organ_slims": [
+      "connective tissue",
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ChIP-seq (CTCF): Embryonic fibroblast (m, 13.5 w)",
+      "ChIP-seq (H3K27ac): Embryonic fibroblast (m, 13.5 w)",
+      "ChIP-seq (H3K4me1): Embryonic fibroblast (m, 13.5 w)",
+      "ChIP-seq (H3K4me3): Embryonic fibroblast (m, 13.5 w)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "ES-Bruce4 (m)",
+    "material": "Cell Line",
+    "life_stage": "embryonic",
+    "age": "unknown",
+    "age_unit": null,
+    "sex": "male",
+    "term": "ES-Bruce4",
+    "organ_slims": [
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ChIP-seq (H3K27ac): Es-bruce4 (m)",
+      "ChIP-seq (H3K27me3): Es-bruce4 (m)",
+      "ChIP-seq (H3K4me3): Es-bruce4 (m)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "ES-E14 (m)",
+    "material": "Cell Line",
+    "life_stage": "embryonic",
+    "age": "unknown",
+    "age_unit": null,
+    "sex": "male",
+    "term": "ES-E14",
+    "organ_slims": [
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ChIP-seq (H3K27ac): Es-e14 (m)",
+      "ChIP-seq (H3K4me1): Es-e14 (m)",
+      "ChIP-seq (H3K4me3): Es-e14 (m)",
+      "DNase-seq: Es-e14 (m)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "forebrain (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "forebrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Forebrain (0 d)",
+      "ChIP-seq (H3K27ac): Forebrain (0 d)",
+      "ChIP-seq (H3K27me3): Forebrain (0 d)",
+      "ChIP-seq (H3K4me1): Forebrain (0 d)",
+      "ChIP-seq (H3K4me3): Forebrain (0 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "forebrain (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "unknown",
+    "term": "forebrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Forebrain (0 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF"
+    ]
+  },
+  {
+    "name": "forebrain (m, 10.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "10.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "forebrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ChIP-seq (H3K27ac): Forebrain (m, 10.5 d)",
+      "ChIP-seq (H3K27me3): Forebrain (m, 10.5 d)",
+      "ChIP-seq (H3K4me1): Forebrain (m, 10.5 d)",
+      "ChIP-seq (H3K4me3): Forebrain (m, 10.5 d)",
+      "DNase-seq: Forebrain (m, 10.5 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "forebrain (m, 11.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "11.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "forebrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Forebrain (m, 11.5 d)",
+      "ChIP-seq (H3K27ac): Forebrain (m, 11.5 d)",
+      "ChIP-seq (H3K27me3): Forebrain (m, 11.5 d)",
+      "ChIP-seq (H3K4me1): Forebrain (m, 11.5 d)",
+      "ChIP-seq (H3K4me3): Forebrain (m, 11.5 d)",
+      "DNase-seq: Forebrain (m, 11.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "forebrain (m, 12.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "12.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "forebrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Forebrain (m, 12.5 d)",
+      "ChIP-seq (H3K27ac): Forebrain (m, 12.5 d)",
+      "ChIP-seq (H3K27me3): Forebrain (m, 12.5 d)",
+      "ChIP-seq (H3K4me1): Forebrain (m, 12.5 d)",
+      "ChIP-seq (H3K4me3): Forebrain (m, 12.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "forebrain (m, 13.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "13.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "forebrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Forebrain (m, 13.5 d)",
+      "ChIP-seq (H3K27ac): Forebrain (m, 13.5 d)",
+      "ChIP-seq (H3K27me3): Forebrain (m, 13.5 d)",
+      "ChIP-seq (H3K4me1): Forebrain (m, 13.5 d)",
+      "ChIP-seq (H3K4me3): Forebrain (m, 13.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "forebrain (m, 14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "forebrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Forebrain (m, 14.5 d)",
+      "ChIP-seq (H3K27ac): Forebrain (m, 14.5 d)",
+      "ChIP-seq (H3K27me3): Forebrain (m, 14.5 d)",
+      "ChIP-seq (H3K4me1): Forebrain (m, 14.5 d)",
+      "ChIP-seq (H3K4me3): Forebrain (m, 14.5 d)",
+      "DNase-seq: Forebrain (m, 14.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "forebrain (m, 15.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "15.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "forebrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Forebrain (m, 15.5 d)",
+      "ChIP-seq (H3K27ac): Forebrain (m, 15.5 d)",
+      "ChIP-seq (H3K27me3): Forebrain (m, 15.5 d)",
+      "ChIP-seq (H3K4me1): Forebrain (m, 15.5 d)",
+      "ChIP-seq (H3K4me3): Forebrain (m, 15.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "forebrain (m, 16.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "16.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "forebrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Forebrain (m, 16.5 d)",
+      "ChIP-seq (H3K27ac): Forebrain (m, 16.5 d)",
+      "ChIP-seq (H3K27me3): Forebrain (m, 16.5 d)",
+      "ChIP-seq (H3K4me1): Forebrain (m, 16.5 d)",
+      "ChIP-seq (H3K4me3): Forebrain (m, 16.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "heart (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "heart",
+    "organ_slims": [
+      "heart"
+    ],
+    "system_slims": [
+      "circulatory system"
+    ],
+    "assays": [
+      "ATAC-seq: Heart (0 d)",
+      "ChIP-seq (H3K27ac): Heart (0 d)",
+      "ChIP-seq (H3K27me3): Heart (0 d)",
+      "ChIP-seq (H3K4me1): Heart (0 d)",
+      "ChIP-seq (H3K4me3): Heart (0 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "heart (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "unknown",
+    "term": "heart",
+    "organ_slims": [
+      "heart"
+    ],
+    "system_slims": [
+      "circulatory system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Heart (0 d)",
+      "DNase-seq: Heart (0 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "heart (m, 10.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "10.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "heart",
+    "organ_slims": [
+      "heart"
+    ],
+    "system_slims": [
+      "circulatory system"
+    ],
+    "assays": [
+      "ChIP-seq (H3K27ac): Heart (m, 10.5 d)",
+      "ChIP-seq (H3K27me3): Heart (m, 10.5 d)",
+      "ChIP-seq (H3K4me1): Heart (m, 10.5 d)",
+      "ChIP-seq (H3K4me3): Heart (m, 10.5 d)",
+      "DNase-seq: Heart (m, 10.5 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "heart (m, 11.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "11.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "heart",
+    "organ_slims": [
+      "heart"
+    ],
+    "system_slims": [
+      "circulatory system"
+    ],
+    "assays": [
+      "ATAC-seq: Heart (m, 11.5 d)",
+      "ChIP-seq (H3K27ac): Heart (m, 11.5 d)",
+      "ChIP-seq (H3K27me3): Heart (m, 11.5 d)",
+      "ChIP-seq (H3K4me1): Heart (m, 11.5 d)",
+      "ChIP-seq (H3K4me3): Heart (m, 11.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "heart (m, 12.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "12.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "heart",
+    "organ_slims": [
+      "heart"
+    ],
+    "system_slims": [
+      "circulatory system"
+    ],
+    "assays": [
+      "ATAC-seq: Heart (m, 12.5 d)",
+      "ChIP-seq (H3K27ac): Heart (m, 12.5 d)",
+      "ChIP-seq (H3K27me3): Heart (m, 12.5 d)",
+      "ChIP-seq (H3K4me1): Heart (m, 12.5 d)",
+      "ChIP-seq (H3K4me3): Heart (m, 12.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "heart (m, 13.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "13.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "heart",
+    "organ_slims": [
+      "heart"
+    ],
+    "system_slims": [
+      "circulatory system"
+    ],
+    "assays": [
+      "ATAC-seq: Heart (m, 13.5 d)",
+      "ChIP-seq (H3K27ac): Heart (m, 13.5 d)",
+      "ChIP-seq (H3K27me3): Heart (m, 13.5 d)",
+      "ChIP-seq (H3K4me1): Heart (m, 13.5 d)",
+      "ChIP-seq (H3K4me3): Heart (m, 13.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "heart (m, 14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "heart",
+    "organ_slims": [
+      "heart"
+    ],
+    "system_slims": [
+      "circulatory system"
+    ],
+    "assays": [
+      "ATAC-seq: Heart (m, 14.5 d)",
+      "ChIP-seq (H3K27ac): Heart (m, 14.5 d)",
+      "ChIP-seq (H3K27me3): Heart (m, 14.5 d)",
+      "ChIP-seq (H3K4me1): Heart (m, 14.5 d)",
+      "ChIP-seq (H3K4me3): Heart (m, 14.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "heart (m, 15.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "15.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "heart",
+    "organ_slims": [
+      "heart"
+    ],
+    "system_slims": [
+      "circulatory system"
+    ],
+    "assays": [
+      "ATAC-seq: Heart (m, 15.5 d)",
+      "ChIP-seq (H3K27ac): Heart (m, 15.5 d)",
+      "ChIP-seq (H3K27me3): Heart (m, 15.5 d)",
+      "ChIP-seq (H3K4me1): Heart (m, 15.5 d)",
+      "ChIP-seq (H3K4me3): Heart (m, 15.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "heart (m, 16.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "16.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "heart",
+    "organ_slims": [
+      "heart"
+    ],
+    "system_slims": [
+      "circulatory system"
+    ],
+    "assays": [
+      "ATAC-seq: Heart (m, 16.5 d)",
+      "ChIP-seq (H3K27ac): Heart (m, 16.5 d)",
+      "ChIP-seq (H3K27me3): Heart (m, 16.5 d)",
+      "ChIP-seq (H3K4me1): Heart (m, 16.5 d)",
+      "ChIP-seq (H3K4me3): Heart (m, 16.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "heart (m, 2 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "2.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "heart",
+    "organ_slims": [
+      "heart"
+    ],
+    "system_slims": [
+      "circulatory system"
+    ],
+    "assays": [
+      "ChIP-seq (H3K27ac): Heart (m, 2 m)",
+      "ChIP-seq (H3K27me3): Heart (m, 2 m)",
+      "ChIP-seq (H3K4me1): Heart (m, 2 m)",
+      "ChIP-seq (H3K4me3): Heart (m, 2 m)",
+      "DNase-seq: Heart (m, 2 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindbrain (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "hindbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Hindbrain (0 d)",
+      "ChIP-seq (H3K27ac): Hindbrain (0 d)",
+      "ChIP-seq (H3K27me3): Hindbrain (0 d)",
+      "ChIP-seq (H3K4me1): Hindbrain (0 d)",
+      "ChIP-seq (H3K4me3): Hindbrain (0 d)",
+      "DNase-seq: Hindbrain (0 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindbrain (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "unknown",
+    "term": "hindbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Hindbrain (0 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF"
+    ]
+  },
+  {
+    "name": "hindbrain (m, 10.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "10.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "hindbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ChIP-seq (H3K27ac): Hindbrain (m, 10.5 d)",
+      "ChIP-seq (H3K27me3): Hindbrain (m, 10.5 d)",
+      "ChIP-seq (H3K4me1): Hindbrain (m, 10.5 d)",
+      "ChIP-seq (H3K4me3): Hindbrain (m, 10.5 d)",
+      "DNase-seq: Hindbrain (m, 10.5 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindbrain (m, 11.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "11.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "hindbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Hindbrain (m, 11.5 d)",
+      "ChIP-seq (H3K27ac): Hindbrain (m, 11.5 d)",
+      "ChIP-seq (H3K27me3): Hindbrain (m, 11.5 d)",
+      "ChIP-seq (H3K4me1): Hindbrain (m, 11.5 d)",
+      "ChIP-seq (H3K4me3): Hindbrain (m, 11.5 d)",
+      "DNase-seq: Hindbrain (m, 11.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindbrain (m, 12.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "12.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "hindbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Hindbrain (m, 12.5 d)",
+      "ChIP-seq (H3K27ac): Hindbrain (m, 12.5 d)",
+      "ChIP-seq (H3K27me3): Hindbrain (m, 12.5 d)",
+      "ChIP-seq (H3K4me1): Hindbrain (m, 12.5 d)",
+      "ChIP-seq (H3K4me3): Hindbrain (m, 12.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindbrain (m, 13.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "13.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "hindbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Hindbrain (m, 13.5 d)",
+      "ChIP-seq (H3K27ac): Hindbrain (m, 13.5 d)",
+      "ChIP-seq (H3K27me3): Hindbrain (m, 13.5 d)",
+      "ChIP-seq (H3K4me1): Hindbrain (m, 13.5 d)",
+      "ChIP-seq (H3K4me3): Hindbrain (m, 13.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindbrain (m, 14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "hindbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Hindbrain (m, 14.5 d)",
+      "ChIP-seq (H3K27ac): Hindbrain (m, 14.5 d)",
+      "ChIP-seq (H3K27me3): Hindbrain (m, 14.5 d)",
+      "ChIP-seq (H3K4me1): Hindbrain (m, 14.5 d)",
+      "ChIP-seq (H3K4me3): Hindbrain (m, 14.5 d)",
+      "DNase-seq: Hindbrain (m, 14.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindbrain (m, 15.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "15.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "hindbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Hindbrain (m, 15.5 d)",
+      "ChIP-seq (H3K27ac): Hindbrain (m, 15.5 d)",
+      "ChIP-seq (H3K27me3): Hindbrain (m, 15.5 d)",
+      "ChIP-seq (H3K4me1): Hindbrain (m, 15.5 d)",
+      "ChIP-seq (H3K4me3): Hindbrain (m, 15.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "hindbrain (m, 16.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "16.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "hindbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Hindbrain (m, 16.5 d)",
+      "ChIP-seq (H3K27ac): Hindbrain (m, 16.5 d)",
+      "ChIP-seq (H3K27me3): Hindbrain (m, 16.5 d)",
+      "ChIP-seq (H3K4me1): Hindbrain (m, 16.5 d)",
+      "ChIP-seq (H3K4me3): Hindbrain (m, 16.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "intestine (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "intestine",
+    "organ_slims": [
+      "intestine"
+    ],
+    "system_slims": [
+      "digestive system"
+    ],
+    "assays": [
+      "ATAC-seq: Intestine (0 d)",
+      "ChIP-seq (H3K27ac): Intestine (0 d)",
+      "ChIP-seq (H3K27me3): Intestine (0 d)",
+      "ChIP-seq (H3K4me1): Intestine (0 d)",
+      "ChIP-seq (H3K4me3): Intestine (0 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "intestine (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "unknown",
+    "term": "intestine",
+    "organ_slims": [
+      "intestine"
+    ],
+    "system_slims": [
+      "digestive system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Intestine (0 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF"
+    ]
+  },
+  {
+    "name": "intestine (m, 14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "intestine",
+    "organ_slims": [
+      "intestine"
+    ],
+    "system_slims": [
+      "digestive system"
+    ],
+    "assays": [
+      "ATAC-seq: Intestine (m, 14.5 d)",
+      "ChIP-seq (H3K27ac): Intestine (m, 14.5 d)",
+      "ChIP-seq (H3K27me3): Intestine (m, 14.5 d)",
+      "ChIP-seq (H3K4me1): Intestine (m, 14.5 d)",
+      "ChIP-seq (H3K4me3): Intestine (m, 14.5 d)",
+      "DNase-seq: Intestine (m, 14.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "intestine (m, 15.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "15.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "intestine",
+    "organ_slims": [
+      "intestine"
+    ],
+    "system_slims": [
+      "digestive system"
+    ],
+    "assays": [
+      "ATAC-seq: Intestine (m, 15.5 d)",
+      "ChIP-seq (H3K27ac): Intestine (m, 15.5 d)",
+      "ChIP-seq (H3K27me3): Intestine (m, 15.5 d)",
+      "ChIP-seq (H3K4me1): Intestine (m, 15.5 d)",
+      "ChIP-seq (H3K4me3): Intestine (m, 15.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "intestine (m, 16.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "16.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "intestine",
+    "organ_slims": [
+      "intestine"
+    ],
+    "system_slims": [
+      "digestive system"
+    ],
+    "assays": [
+      "ATAC-seq: Intestine (m, 16.5 d)",
+      "ChIP-seq (H3K27ac): Intestine (m, 16.5 d)",
+      "ChIP-seq (H3K27me3): Intestine (m, 16.5 d)",
+      "ChIP-seq (H3K4me1): Intestine (m, 16.5 d)",
+      "ChIP-seq (H3K4me3): Intestine (m, 16.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "kidney (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "kidney",
+    "organ_slims": [
+      "kidney"
+    ],
+    "system_slims": [
+      "excretory system"
+    ],
+    "assays": [
+      "ATAC-seq: Kidney (0 d)",
+      "ChIP-seq (H3K27ac): Kidney (0 d)",
+      "ChIP-seq (H3K27me3): Kidney (0 d)",
+      "ChIP-seq (H3K4me1): Kidney (0 d)",
+      "ChIP-seq (H3K4me3): Kidney (0 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "kidney (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "unknown",
+    "term": "kidney",
+    "organ_slims": [
+      "kidney"
+    ],
+    "system_slims": [
+      "excretory system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Kidney (0 d)",
+      "DNase-seq: Kidney (0 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "kidney (m, 14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "kidney",
+    "organ_slims": [
+      "kidney"
+    ],
+    "system_slims": [
+      "excretory system"
+    ],
+    "assays": [
+      "ATAC-seq: Kidney (m, 14.5 d)",
+      "ChIP-seq (H3K27ac): Kidney (m, 14.5 d)",
+      "ChIP-seq (H3K27me3): Kidney (m, 14.5 d)",
+      "ChIP-seq (H3K4me1): Kidney (m, 14.5 d)",
+      "ChIP-seq (H3K4me3): Kidney (m, 14.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "kidney (m, 15.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "15.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "kidney",
+    "organ_slims": [
+      "kidney"
+    ],
+    "system_slims": [
+      "excretory system"
+    ],
+    "assays": [
+      "ATAC-seq: Kidney (m, 15.5 d)",
+      "ChIP-seq (H3K27ac): Kidney (m, 15.5 d)",
+      "ChIP-seq (H3K27me3): Kidney (m, 15.5 d)",
+      "ChIP-seq (H3K4me1): Kidney (m, 15.5 d)",
+      "ChIP-seq (H3K4me3): Kidney (m, 15.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "kidney (m, 16.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "16.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "kidney",
+    "organ_slims": [
+      "kidney"
+    ],
+    "system_slims": [
+      "excretory system"
+    ],
+    "assays": [
+      "ATAC-seq: Kidney (m, 16.5 d)",
+      "ChIP-seq (H3K27ac): Kidney (m, 16.5 d)",
+      "ChIP-seq (H3K27me3): Kidney (m, 16.5 d)",
+      "ChIP-seq (H3K4me1): Kidney (m, 16.5 d)",
+      "ChIP-seq (H3K4me3): Kidney (m, 16.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "kidney (m, 2 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "2.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "kidney",
+    "organ_slims": [
+      "kidney"
+    ],
+    "system_slims": [
+      "excretory system"
+    ],
+    "assays": [
+      "ChIP-seq (H3K27ac): Kidney (m, 2 m)",
+      "ChIP-seq (H3K27me3): Kidney (m, 2 m)",
+      "ChIP-seq (H3K4me1): Kidney (m, 2 m)",
+      "ChIP-seq (H3K4me3): Kidney (m, 2 m)",
+      "DNase-seq: Kidney (m, 2 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "limb (m, 10.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "10.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "limb",
+    "organ_slims": [
+      "limb"
+    ],
+    "system_slims": [
+      "skeletal system",
+      "musculature"
+    ],
+    "assays": [
+      "ChIP-seq (H3K27ac): Limb (m, 10.5 d)",
+      "ChIP-seq (H3K27me3): Limb (m, 10.5 d)",
+      "ChIP-seq (H3K4me1): Limb (m, 10.5 d)",
+      "ChIP-seq (H3K4me3): Limb (m, 10.5 d)",
+      "DNase-seq: Limb (m, 10.5 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "limb (m, 11.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "11.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "limb",
+    "organ_slims": [
+      "limb"
+    ],
+    "system_slims": [
+      "skeletal system",
+      "musculature"
+    ],
+    "assays": [
+      "ATAC-seq: Limb (m, 11.5 d)",
+      "ChIP-seq (H3K27ac): Limb (m, 11.5 d)",
+      "ChIP-seq (H3K27me3): Limb (m, 11.5 d)",
+      "ChIP-seq (H3K4me1): Limb (m, 11.5 d)",
+      "ChIP-seq (H3K4me3): Limb (m, 11.5 d)",
+      "DNase-seq: Limb (m, 11.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "limb (m, 12.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "12.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "limb",
+    "organ_slims": [
+      "limb"
+    ],
+    "system_slims": [
+      "skeletal system",
+      "musculature"
+    ],
+    "assays": [
+      "ATAC-seq: Limb (m, 12.5 d)",
+      "ChIP-seq (H3K27ac): Limb (m, 12.5 d)",
+      "ChIP-seq (H3K27me3): Limb (m, 12.5 d)",
+      "ChIP-seq (H3K4me1): Limb (m, 12.5 d)",
+      "ChIP-seq (H3K4me3): Limb (m, 12.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "limb (m, 13.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "13.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "limb",
+    "organ_slims": [
+      "limb"
+    ],
+    "system_slims": [
+      "skeletal system",
+      "musculature"
+    ],
+    "assays": [
+      "ATAC-seq: Limb (m, 13.5 d)",
+      "ChIP-seq (H3K27ac): Limb (m, 13.5 d)",
+      "ChIP-seq (H3K27me3): Limb (m, 13.5 d)",
+      "ChIP-seq (H3K4me1): Limb (m, 13.5 d)",
+      "ChIP-seq (H3K4me3): Limb (m, 13.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "limb (m, 14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "limb",
+    "organ_slims": [
+      "limb"
+    ],
+    "system_slims": [
+      "skeletal system",
+      "musculature"
+    ],
+    "assays": [
+      "ATAC-seq: Limb (m, 14.5 d)",
+      "ChIP-seq (H3K27ac): Limb (m, 14.5 d)",
+      "ChIP-seq (H3K27me3): Limb (m, 14.5 d)",
+      "ChIP-seq (H3K4me1): Limb (m, 14.5 d)",
+      "ChIP-seq (H3K4me3): Limb (m, 14.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "limb (m, 15.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "15.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "limb",
+    "organ_slims": [
+      "limb"
+    ],
+    "system_slims": [
+      "skeletal system",
+      "musculature"
+    ],
+    "assays": [
+      "ATAC-seq: Limb (m, 15.5 d)",
+      "ChIP-seq (H3K27ac): Limb (m, 15.5 d)",
+      "ChIP-seq (H3K27me3): Limb (m, 15.5 d)",
+      "ChIP-seq (H3K4me1): Limb (m, 15.5 d)",
+      "ChIP-seq (H3K4me3): Limb (m, 15.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "liver",
+    "organ_slims": [
+      "liver",
+      "exocrine gland",
+      "endocrine gland"
+    ],
+    "system_slims": [
+      "exocrine system",
+      "digestive system",
+      "endocrine system"
+    ],
+    "assays": [
+      "ATAC-seq: Liver (0 d)",
+      "ChIP-seq (H3K27ac): Liver (0 d)",
+      "ChIP-seq (H3K27me3): Liver (0 d)",
+      "ChIP-seq (H3K4me1): Liver (0 d)",
+      "ChIP-seq (H3K4me3): Liver (0 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "unknown",
+    "term": "liver",
+    "organ_slims": [
+      "liver",
+      "exocrine gland",
+      "endocrine gland"
+    ],
+    "system_slims": [
+      "exocrine system",
+      "digestive system",
+      "endocrine system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Liver (0 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF"
+    ]
+  },
+  {
+    "name": "liver (14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "male",
+    "term": "liver",
+    "organ_slims": [
+      "liver",
+      "exocrine gland",
+      "endocrine gland"
+    ],
+    "system_slims": [
+      "exocrine system",
+      "digestive system",
+      "endocrine system"
+    ],
+    "assays": [
+      "DNase-seq: Liver (14.5 d)"
+    ],
+    "assay_types": [
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "liver",
+    "organ_slims": [
+      "liver",
+      "exocrine gland",
+      "endocrine gland"
+    ],
+    "system_slims": [
+      "exocrine system",
+      "digestive system",
+      "endocrine system"
+    ],
+    "assays": [
+      "ATAC-seq: Liver (14.5 d)",
+      "ChIP-seq (CTCF): Liver (14.5 d)",
+      "ChIP-seq (H3K27ac): Liver (14.5 d)",
+      "ChIP-seq (H3K27me3): Liver (14.5 d)",
+      "ChIP-seq (H3K4me1): Liver (14.5 d)",
+      "ChIP-seq (H3K4me3): Liver (14.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (m, 11.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "11.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "liver",
+    "organ_slims": [
+      "liver",
+      "exocrine gland",
+      "endocrine gland"
+    ],
+    "system_slims": [
+      "exocrine system",
+      "digestive system",
+      "endocrine system"
+    ],
+    "assays": [
+      "ATAC-seq: Liver (m, 11.5 d)",
+      "ChIP-seq (H3K27ac): Liver (m, 11.5 d)",
+      "ChIP-seq (H3K27me3): Liver (m, 11.5 d)",
+      "ChIP-seq (H3K4me1): Liver (m, 11.5 d)",
+      "ChIP-seq (H3K4me3): Liver (m, 11.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (m, 12.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "12.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "liver",
+    "organ_slims": [
+      "liver",
+      "exocrine gland",
+      "endocrine gland"
+    ],
+    "system_slims": [
+      "exocrine system",
+      "digestive system",
+      "endocrine system"
+    ],
+    "assays": [
+      "ATAC-seq: Liver (m, 12.5 d)",
+      "ChIP-seq (H3K27ac): Liver (m, 12.5 d)",
+      "ChIP-seq (H3K27me3): Liver (m, 12.5 d)",
+      "ChIP-seq (H3K4me1): Liver (m, 12.5 d)",
+      "ChIP-seq (H3K4me3): Liver (m, 12.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (m, 13.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "13.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "liver",
+    "organ_slims": [
+      "liver",
+      "exocrine gland",
+      "endocrine gland"
+    ],
+    "system_slims": [
+      "exocrine system",
+      "digestive system",
+      "endocrine system"
+    ],
+    "assays": [
+      "ATAC-seq: Liver (m, 13.5 d)",
+      "ChIP-seq (H3K27ac): Liver (m, 13.5 d)",
+      "ChIP-seq (H3K27me3): Liver (m, 13.5 d)",
+      "ChIP-seq (H3K4me1): Liver (m, 13.5 d)",
+      "ChIP-seq (H3K4me3): Liver (m, 13.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (m, 15.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "15.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "liver",
+    "organ_slims": [
+      "liver",
+      "exocrine gland",
+      "endocrine gland"
+    ],
+    "system_slims": [
+      "exocrine system",
+      "digestive system",
+      "endocrine system"
+    ],
+    "assays": [
+      "ATAC-seq: Liver (m, 15.5 d)",
+      "ChIP-seq (H3K27ac): Liver (m, 15.5 d)",
+      "ChIP-seq (H3K27me3): Liver (m, 15.5 d)",
+      "ChIP-seq (H3K4me1): Liver (m, 15.5 d)",
+      "ChIP-seq (H3K4me3): Liver (m, 15.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (m, 16.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "16.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "liver",
+    "organ_slims": [
+      "liver",
+      "exocrine gland",
+      "endocrine gland"
+    ],
+    "system_slims": [
+      "exocrine system",
+      "digestive system",
+      "endocrine system"
+    ],
+    "assays": [
+      "ATAC-seq: Liver (m, 16.5 d)",
+      "ChIP-seq (H3K27ac): Liver (m, 16.5 d)",
+      "ChIP-seq (H3K27me3): Liver (m, 16.5 d)",
+      "ChIP-seq (H3K4me1): Liver (m, 16.5 d)",
+      "ChIP-seq (H3K4me3): Liver (m, 16.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (m, 2 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "2.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "liver",
+    "organ_slims": [
+      "liver",
+      "exocrine gland",
+      "endocrine gland"
+    ],
+    "system_slims": [
+      "exocrine system",
+      "digestive system",
+      "endocrine system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Liver (m, 2 m)",
+      "ChIP-seq (H3K27ac): Liver (m, 2 m)",
+      "ChIP-seq (H3K27me3): Liver (m, 2 m)",
+      "ChIP-seq (H3K4me1): Liver (m, 2 m)",
+      "ChIP-seq (H3K4me3): Liver (m, 2 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "lung (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "lung",
+    "organ_slims": [
+      "lung"
+    ],
+    "system_slims": [
+      "respiratory system"
+    ],
+    "assays": [
+      "ATAC-seq: Lung (0 d)",
+      "ChIP-seq (H3K27ac): Lung (0 d)",
+      "ChIP-seq (H3K27me3): Lung (0 d)",
+      "ChIP-seq (H3K4me1): Lung (0 d)",
+      "ChIP-seq (H3K4me3): Lung (0 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "lung (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "unknown",
+    "term": "lung",
+    "organ_slims": [
+      "lung"
+    ],
+    "system_slims": [
+      "respiratory system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Lung (0 d)",
+      "DNase-seq: Lung (0 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "lung (m, 14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "lung",
+    "organ_slims": [
+      "lung"
+    ],
+    "system_slims": [
+      "respiratory system"
+    ],
+    "assays": [
+      "ATAC-seq: Lung (m, 14.5 d)",
+      "ChIP-seq (CTCF): Lung (m, 14.5 d)",
+      "ChIP-seq (H3K27ac): Lung (m, 14.5 d)",
+      "ChIP-seq (H3K27me3): Lung (m, 14.5 d)",
+      "ChIP-seq (H3K4me1): Lung (m, 14.5 d)",
+      "ChIP-seq (H3K4me3): Lung (m, 14.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "lung (m, 15.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "15.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "lung",
+    "organ_slims": [
+      "lung"
+    ],
+    "system_slims": [
+      "respiratory system"
+    ],
+    "assays": [
+      "ATAC-seq: Lung (m, 15.5 d)",
+      "ChIP-seq (H3K27ac): Lung (m, 15.5 d)",
+      "ChIP-seq (H3K27me3): Lung (m, 15.5 d)",
+      "ChIP-seq (H3K4me1): Lung (m, 15.5 d)",
+      "ChIP-seq (H3K4me3): Lung (m, 15.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "lung (m, 16.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "16.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "lung",
+    "organ_slims": [
+      "lung"
+    ],
+    "system_slims": [
+      "respiratory system"
+    ],
+    "assays": [
+      "ATAC-seq: Lung (m, 16.5 d)",
+      "ChIP-seq (H3K27ac): Lung (m, 16.5 d)",
+      "ChIP-seq (H3K27me3): Lung (m, 16.5 d)",
+      "ChIP-seq (H3K4me1): Lung (m, 16.5 d)",
+      "ChIP-seq (H3K4me3): Lung (m, 16.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "MEL",
+    "material": "Cell Line",
+    "life_stage": "unknown",
+    "age": "unknown",
+    "age_unit": null,
+    "sex": "unknown",
+    "term": "MEL",
+    "organ_slims": [
+      "spleen",
+      "immune organ"
+    ],
+    "system_slims": [
+      "immune system",
+      "digestive system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Mel",
+      "ChIP-seq (H3K27ac): Mel",
+      "ChIP-seq (H3K27me3): Mel",
+      "ChIP-seq (H3K4me1): Mel",
+      "ChIP-seq (H3K4me3): Mel"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "midbrain (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "midbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Midbrain (0 d)",
+      "ChIP-seq (H3K27ac): Midbrain (0 d)",
+      "ChIP-seq (H3K27me3): Midbrain (0 d)",
+      "ChIP-seq (H3K4me1): Midbrain (0 d)",
+      "ChIP-seq (H3K4me3): Midbrain (0 d)",
+      "DNase-seq: Midbrain (0 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "midbrain (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "unknown",
+    "term": "midbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Midbrain (0 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF"
+    ]
+  },
+  {
+    "name": "midbrain (m, 10.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "10.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "midbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ChIP-seq (H3K27ac): Midbrain (m, 10.5 d)",
+      "ChIP-seq (H3K27me3): Midbrain (m, 10.5 d)",
+      "ChIP-seq (H3K4me1): Midbrain (m, 10.5 d)",
+      "ChIP-seq (H3K4me3): Midbrain (m, 10.5 d)",
+      "DNase-seq: Midbrain (m, 10.5 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "midbrain (m, 11.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "11.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "midbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Midbrain (m, 11.5 d)",
+      "ChIP-seq (H3K27ac): Midbrain (m, 11.5 d)",
+      "ChIP-seq (H3K27me3): Midbrain (m, 11.5 d)",
+      "ChIP-seq (H3K4me1): Midbrain (m, 11.5 d)",
+      "ChIP-seq (H3K4me3): Midbrain (m, 11.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "midbrain (m, 12.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "12.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "midbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Midbrain (m, 12.5 d)",
+      "ChIP-seq (H3K27ac): Midbrain (m, 12.5 d)",
+      "ChIP-seq (H3K27me3): Midbrain (m, 12.5 d)",
+      "ChIP-seq (H3K4me1): Midbrain (m, 12.5 d)",
+      "ChIP-seq (H3K4me3): Midbrain (m, 12.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "midbrain (m, 13.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "13.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "midbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Midbrain (m, 13.5 d)",
+      "ChIP-seq (H3K27ac): Midbrain (m, 13.5 d)",
+      "ChIP-seq (H3K27me3): Midbrain (m, 13.5 d)",
+      "ChIP-seq (H3K4me1): Midbrain (m, 13.5 d)",
+      "ChIP-seq (H3K4me3): Midbrain (m, 13.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "midbrain (m, 14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "midbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Midbrain (m, 14.5 d)",
+      "ChIP-seq (H3K27ac): Midbrain (m, 14.5 d)",
+      "ChIP-seq (H3K27me3): Midbrain (m, 14.5 d)",
+      "ChIP-seq (H3K4me1): Midbrain (m, 14.5 d)",
+      "ChIP-seq (H3K4me3): Midbrain (m, 14.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "midbrain (m, 15.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "15.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "midbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Midbrain (m, 15.5 d)",
+      "ChIP-seq (H3K27ac): Midbrain (m, 15.5 d)",
+      "ChIP-seq (H3K27me3): Midbrain (m, 15.5 d)",
+      "ChIP-seq (H3K4me1): Midbrain (m, 15.5 d)",
+      "ChIP-seq (H3K4me3): Midbrain (m, 15.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "midbrain (m, 16.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "16.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "midbrain",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ATAC-seq: Midbrain (m, 16.5 d)",
+      "ChIP-seq (H3K27ac): Midbrain (m, 16.5 d)",
+      "ChIP-seq (H3K27me3): Midbrain (m, 16.5 d)",
+      "ChIP-seq (H3K4me1): Midbrain (m, 16.5 d)",
+      "ChIP-seq (H3K4me3): Midbrain (m, 16.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "neural tube (m, 11.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "11.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "neural tube",
+    "organ_slims": [
+      "epithelium",
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ATAC-seq: Neural tube (m, 11.5 d)",
+      "ChIP-seq (H3K27ac): Neural tube (m, 11.5 d)",
+      "ChIP-seq (H3K27me3): Neural tube (m, 11.5 d)",
+      "ChIP-seq (H3K4me1): Neural tube (m, 11.5 d)",
+      "ChIP-seq (H3K4me3): Neural tube (m, 11.5 d)",
+      "DNase-seq: Neural tube (m, 11.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "neural tube (m, 12.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "12.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "neural tube",
+    "organ_slims": [
+      "epithelium",
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ATAC-seq: Neural tube (m, 12.5 d)",
+      "ChIP-seq (H3K27me3): Neural tube (m, 12.5 d)",
+      "ChIP-seq (H3K4me1): Neural tube (m, 12.5 d)",
+      "ChIP-seq (H3K4me3): Neural tube (m, 12.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "neural tube (m, 13.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "13.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "neural tube",
+    "organ_slims": [
+      "epithelium",
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ATAC-seq: Neural tube (m, 13.5 d)",
+      "ChIP-seq (H3K27ac): Neural tube (m, 13.5 d)",
+      "ChIP-seq (H3K27me3): Neural tube (m, 13.5 d)",
+      "ChIP-seq (H3K4me1): Neural tube (m, 13.5 d)",
+      "ChIP-seq (H3K4me3): Neural tube (m, 13.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "neural tube (m, 14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "neural tube",
+    "organ_slims": [
+      "epithelium",
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ATAC-seq: Neural tube (m, 14.5 d)",
+      "ChIP-seq (H3K27ac): Neural tube (m, 14.5 d)",
+      "ChIP-seq (H3K27me3): Neural tube (m, 14.5 d)",
+      "ChIP-seq (H3K4me1): Neural tube (m, 14.5 d)",
+      "ChIP-seq (H3K4me3): Neural tube (m, 14.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "neural tube (m, 15.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "15.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "neural tube",
+    "organ_slims": [
+      "epithelium",
+      "embryo"
+    ],
+    "system_slims": [],
+    "assays": [
+      "ATAC-seq: Neural tube (m, 15.5 d)",
+      "ChIP-seq (H3K27ac): Neural tube (m, 15.5 d)",
+      "ChIP-seq (H3K27me3): Neural tube (m, 15.5 d)",
+      "ChIP-seq (H3K4me1): Neural tube (m, 15.5 d)",
+      "ChIP-seq (H3K4me3): Neural tube (m, 15.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "olfactory bulb (m, 2 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "2.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "olfactory bulb",
+    "organ_slims": [
+      "brain"
+    ],
+    "system_slims": [
+      "central nervous system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Olfactory bulb (m, 2 m)",
+      "ChIP-seq (H3K27ac): Olfactory bulb (m, 2 m)",
+      "ChIP-seq (H3K4me1): Olfactory bulb (m, 2 m)",
+      "ChIP-seq (H3K4me3): Olfactory bulb (m, 2 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "placenta (f, 2 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "2.0",
+    "age_unit": "month",
+    "sex": "female",
+    "term": "placenta",
+    "organ_slims": [
+      "extraembryonic component",
+      "placenta"
+    ],
+    "system_slims": [
+      "reproductive system"
+    ],
+    "assays": [
+      "ChIP-seq (H3K27ac): Placenta (f, 2 m)",
+      "ChIP-seq (H3K4me1): Placenta (f, 2 m)",
+      "ChIP-seq (H3K4me3): Placenta (f, 2 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "small intestine (m, 2 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "2.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "small intestine",
+    "organ_slims": [
+      "small intestine",
+      "intestine"
+    ],
+    "system_slims": [
+      "digestive system"
+    ],
+    "assays": [
+      "ChIP-seq (H3K27ac): Small intestine (m, 2 m)",
+      "ChIP-seq (H3K27me3): Small intestine (m, 2 m)",
+      "ChIP-seq (H3K4me1): Small intestine (m, 2 m)",
+      "ChIP-seq (H3K4me3): Small intestine (m, 2 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "spleen (m, 2 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "2.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "spleen",
+    "organ_slims": [
+      "spleen",
+      "immune organ"
+    ],
+    "system_slims": [
+      "immune system",
+      "digestive system"
+    ],
+    "assays": [
+      "ChIP-seq (H3K27ac): Spleen (m, 2 m)",
+      "ChIP-seq (H3K27me3): Spleen (m, 2 m)",
+      "DNase-seq: Spleen (m, 2 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "stomach (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "stomach",
+    "organ_slims": [
+      "stomach"
+    ],
+    "system_slims": [
+      "digestive system"
+    ],
+    "assays": [
+      "ATAC-seq: Stomach (0 d)",
+      "ChIP-seq (H3K27ac): Stomach (0 d)",
+      "ChIP-seq (H3K4me1): Stomach (0 d)",
+      "ChIP-seq (H3K4me3): Stomach (0 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "stomach (0 d)",
+    "material": "Primary Tissue",
+    "life_stage": "postnatal",
+    "age": "0.0",
+    "age_unit": "day",
+    "sex": "unknown",
+    "term": "stomach",
+    "organ_slims": [
+      "stomach"
+    ],
+    "system_slims": [
+      "digestive system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Stomach (0 d)",
+      "DNase-seq: Stomach (0 d)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "stomach (m, 14.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "14.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "stomach",
+    "organ_slims": [
+      "stomach"
+    ],
+    "system_slims": [
+      "digestive system"
+    ],
+    "assays": [
+      "ATAC-seq: Stomach (m, 14.5 d)",
+      "ChIP-seq (H3K27ac): Stomach (m, 14.5 d)",
+      "ChIP-seq (H3K27me3): Stomach (m, 14.5 d)",
+      "ChIP-seq (H3K4me1): Stomach (m, 14.5 d)",
+      "ChIP-seq (H3K4me3): Stomach (m, 14.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "stomach (m, 15.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "15.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "stomach",
+    "organ_slims": [
+      "stomach"
+    ],
+    "system_slims": [
+      "digestive system"
+    ],
+    "assays": [
+      "ATAC-seq: Stomach (m, 15.5 d)",
+      "ChIP-seq (H3K27ac): Stomach (m, 15.5 d)",
+      "ChIP-seq (H3K27me3): Stomach (m, 15.5 d)",
+      "ChIP-seq (H3K4me1): Stomach (m, 15.5 d)",
+      "ChIP-seq (H3K4me3): Stomach (m, 15.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "stomach (m, 16.5 d)",
+    "material": "Primary Tissue",
+    "life_stage": "embryonic",
+    "age": "16.5",
+    "age_unit": "day",
+    "sex": "mixed",
+    "term": "stomach",
+    "organ_slims": [
+      "stomach"
+    ],
+    "system_slims": [
+      "digestive system"
+    ],
+    "assays": [
+      "ATAC-seq: Stomach (m, 16.5 d)",
+      "ChIP-seq (H3K27ac): Stomach (m, 16.5 d)",
+      "ChIP-seq (H3K27me3): Stomach (m, 16.5 d)",
+      "ChIP-seq (H3K4me1): Stomach (m, 16.5 d)",
+      "ChIP-seq (H3K4me3): Stomach (m, 16.5 d)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "testis (m, 2 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "2.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "testis",
+    "organ_slims": [
+      "testis",
+      "gonad"
+    ],
+    "system_slims": [
+      "reproductive system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Testis (m, 2 m)",
+      "ChIP-seq (H3K27ac): Testis (m, 2 m)",
+      "ChIP-seq (H3K27me3): Testis (m, 2 m)",
+      "ChIP-seq (H3K4me1): Testis (m, 2 m)",
+      "ChIP-seq (H3K4me3): Testis (m, 2 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "thymus (m, 2 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "adult",
+    "age": "2.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "thymus",
+    "organ_slims": [
+      "thymus",
+      "immune organ",
+      "endocrine gland"
+    ],
+    "system_slims": [
+      "immune system",
+      "endocrine system"
+    ],
+    "assays": [
+      "ChIP-seq (CTCF): Thymus (m, 2 m)",
+      "ChIP-seq (H3K27ac): Thymus (m, 2 m)",
+      "ChIP-seq (H3K27me3): Thymus (m, 2 m)",
+      "ChIP-seq (H3K4me1): Thymus (m, 2 m)",
+      "ChIP-seq (H3K4me3): Thymus (m, 2 m)",
+      "DNase-seq: Thymus (m, 2 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq",
+      "DNase-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin",
+      "transcription factor"
+    ],
+    "assay_targets": [
+      "CTCF",
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  }
+]

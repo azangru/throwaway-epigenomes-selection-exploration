@@ -1,0 +1,813 @@
+[
+  {
+    "name": "brain (f, 16 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "post-juvenile adult",
+    "age": "16.0",
+    "age_unit": "month",
+    "sex": "female",
+    "term": "brain",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Brain (f, 16 m)",
+      "ChIP-seq (H3K27Ac): Brain (f, 16 m)",
+      "ChIP-seq (H3K4Me1): Brain (f, 16 m)",
+      "ChIP-seq (H3K4Me3): Brain (f, 16 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "brain (f, 9 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "sexually immature",
+    "age": "9.0",
+    "age_unit": "month",
+    "sex": "female",
+    "term": "brain",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Brain (f, 9 m)",
+      "ChIP-seq (H3K27Ac): Brain (f, 9 m)",
+      "ChIP-seq (H3K4Me3): Brain (f, 9 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "brain (m, 16 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "post-juvenile adult",
+    "age": "16.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "brain",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Brain (m, 16 m)",
+      "ChIP-seq (H3K27Ac): Brain (m, 16 m)",
+      "ChIP-seq (H3K4Me1): Brain (m, 16 m)",
+      "ChIP-seq (H3K4Me3): Brain (m, 16 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "brain (m, 9 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "sexually immature",
+    "age": "9.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "brain",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Brain (m, 9 m)",
+      "ChIP-seq (H3K27Ac): Brain (m, 9 m)",
+      "ChIP-seq (H3K4Me1): Brain (m, 9 m)",
+      "ChIP-seq (H3K4Me3): Brain (m, 9 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "embryo (blastula stage, 27.50 tt)",
+    "material": "Primary Tissue",
+    "life_stage": "blastula",
+    "age": "27.50",
+    "age_unit": "thermal time",
+    "sex": "phenotypic",
+    "term": "embryo",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Embryo (blastula stage, 27.50 tt)",
+      "ChIP-seq (H3K27Ac): Embryo (blastula stage, 27.50 tt)",
+      "ChIP-seq (H3K27Me3): Embryo (blastula stage, 27.50 tt)",
+      "ChIP-seq (H3K4Me1): Embryo (blastula stage, 27.50 tt)",
+      "ChIP-seq (H3K4Me3): Embryo (blastula stage, 27.50 tt)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "embryo (gastrula stage, 35.67 tt)",
+    "material": "Primary Tissue",
+    "life_stage": "gastrula",
+    "age": "35.67",
+    "age_unit": "thermal time",
+    "sex": "phenotypic",
+    "term": "embryo",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Embryo (gastrula stage, 35.67 tt)",
+      "ChIP-seq (H3K27Ac): Embryo (gastrula stage, 35.67 tt)",
+      "ChIP-seq (H3K27Me3): Embryo (gastrula stage, 35.67 tt)",
+      "ChIP-seq (H3K4Me1): Embryo (gastrula stage, 35.67 tt)",
+      "ChIP-seq (H3K4Me3): Embryo (gastrula stage, 35.67 tt)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "embryo (pharyngula, 104 tt)",
+    "material": "Primary Tissue",
+    "life_stage": "pharyngula",
+    "age": "104.00",
+    "age_unit": "thermal time",
+    "sex": "phenotypic",
+    "term": "embryo",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Embryo (pharyngula, 104 tt)"
+    ],
+    "assay_types": [
+      "ATAC-seq"
+    ],
+    "assay_target_types": [
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "embryo (pharyngula, 132 tt)",
+    "material": "Primary Tissue",
+    "life_stage": "pharyngula",
+    "age": "132.00",
+    "age_unit": "thermal time",
+    "sex": "phenotypic",
+    "term": "embryo",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Embryo (pharyngula, 132 tt)",
+      "ChIP-seq (H3K27Me3): Embryo (pharyngula, 132 tt)",
+      "ChIP-seq (H3K4Me3): Embryo (pharyngula, 132 tt)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27me3",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "embryo (segmentation, 51.50 tt)",
+    "material": "Primary Tissue",
+    "life_stage": "segmentation",
+    "age": "51.50",
+    "age_unit": "thermal time",
+    "sex": "phenotypic",
+    "term": "embryo",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Embryo (segmentation, 51.50 tt)",
+      "ChIP-seq (H3K27Ac): Embryo (segmentation, 51.50 tt)",
+      "ChIP-seq (H3K27Me3): Embryo (segmentation, 51.50 tt)",
+      "ChIP-seq (H3K4Me1): Embryo (segmentation, 51.50 tt)",
+      "ChIP-seq (H3K4Me3): Embryo (segmentation, 51.50 tt)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "embryo (segmentation, 68 tt)",
+    "material": "Primary Tissue",
+    "life_stage": "segmentation",
+    "age": "68.00",
+    "age_unit": "thermal time",
+    "sex": "phenotypic",
+    "term": "embryo",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Embryo (segmentation, 68 tt)",
+      "ChIP-seq (H3K27Ac): Embryo (segmentation, 68 tt)",
+      "ChIP-seq (H3K27Me3): Embryo (segmentation, 68 tt)",
+      "ChIP-seq (H3K4Me1): Embryo (segmentation, 68 tt)",
+      "ChIP-seq (H3K4Me3): Embryo (segmentation, 68 tt)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "embryo (segmentation, 92 tt)",
+    "material": "Primary Tissue",
+    "life_stage": "segmentation",
+    "age": "92.00",
+    "age_unit": "thermal time",
+    "sex": "phenotypic",
+    "term": "embryo",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Embryo (segmentation, 92 tt)",
+      "ChIP-seq (H3K27Ac): Embryo (segmentation, 92 tt)",
+      "ChIP-seq (H3K27Me3): Embryo (segmentation, 92 tt)",
+      "ChIP-seq (H3K4Me1): Embryo (segmentation, 92 tt)",
+      "ChIP-seq (H3K4Me3): Embryo (segmentation, 92 tt)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K27me3",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "fast muscle tissue (f, 16 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "post-juvenile adult",
+    "age": "16.0",
+    "age_unit": "month",
+    "sex": "female",
+    "term": "fast muscle tissue",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Fast muscle tissue (f, 16 m)",
+      "ChIP-seq (H3K27Ac): Fast muscle tissue (f, 16 m)",
+      "ChIP-seq (H3K4Me1): Fast muscle tissue (f, 16 m)",
+      "ChIP-seq (H3K4Me3): Fast muscle tissue (f, 16 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "fast muscle tissue (f, 9 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "sexually immature",
+    "age": "9.0",
+    "age_unit": "month",
+    "sex": "female",
+    "term": "fast muscle tissue",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Fast muscle tissue (f, 9 m)",
+      "ChIP-seq (H3K27Ac): Fast muscle tissue (f, 9 m)",
+      "ChIP-seq (H3K4Me1): Fast muscle tissue (f, 9 m)",
+      "ChIP-seq (H3K4Me3): Fast muscle tissue (f, 9 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "fast muscle tissue (m, 16 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "post-juvenile adult",
+    "age": "16.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "fast muscle tissue",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Fast muscle tissue (m, 16 m)",
+      "ChIP-seq (H3K27Ac): Fast muscle tissue (m, 16 m)",
+      "ChIP-seq (H3K4Me1): Fast muscle tissue (m, 16 m)",
+      "ChIP-seq (H3K4Me3): Fast muscle tissue (m, 16 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "fast muscle tissue (m, 9 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "sexually immature",
+    "age": "9.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "fast muscle tissue",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Fast muscle tissue (m, 9 m)",
+      "ChIP-seq (H3K27Ac): Fast muscle tissue (m, 9 m)",
+      "ChIP-seq (H3K4Me1): Fast muscle tissue (m, 9 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "gill filament (f, 16 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "post-juvenile adult",
+    "age": "16.0",
+    "age_unit": "month",
+    "sex": "female",
+    "term": "gill filament",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ChIP-seq (H3K27Ac): Gill filament (f, 16 m)",
+      "ChIP-seq (H3K4Me1): Gill filament (f, 16 m)",
+      "ChIP-seq (H3K4Me3): Gill filament (f, 16 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "gill filament (f, 9 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "sexually immature",
+    "age": "9.0",
+    "age_unit": "month",
+    "sex": "female",
+    "term": "gill filament",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ChIP-seq (H3K27Ac): Gill filament (f, 9 m)",
+      "ChIP-seq (H3K4Me3): Gill filament (f, 9 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "gill filament (m, 16 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "post-juvenile adult",
+    "age": "16.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "gill filament",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ChIP-seq (H3K27Ac): Gill filament (m, 16 m)",
+      "ChIP-seq (H3K4Me1): Gill filament (m, 16 m)",
+      "ChIP-seq (H3K4Me3): Gill filament (m, 16 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "gill filament (m, 9 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "sexually immature",
+    "age": "9.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "gill filament",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ChIP-seq (H3K27Ac): Gill filament (m, 9 m)",
+      "ChIP-seq (H3K4Me1): Gill filament (m, 9 m)",
+      "ChIP-seq (H3K4Me3): Gill filament (m, 9 m)"
+    ],
+    "assay_types": [
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3"
+    ]
+  },
+  {
+    "name": "gonad (f, 16 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "post-juvenile adult",
+    "age": "16.0",
+    "age_unit": "month",
+    "sex": "female",
+    "term": "gonad",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Gonad (f, 16 m)",
+      "ChIP-seq (H3K27Ac): Gonad (f, 16 m)",
+      "ChIP-seq (H3K4Me1): Gonad (f, 16 m)",
+      "ChIP-seq (H3K4Me3): Gonad (f, 16 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "gonad (m, 16 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "post-juvenile adult",
+    "age": "16.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "gonad",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Gonad (m, 16 m)",
+      "ChIP-seq (H3K27Ac): Gonad (m, 16 m)",
+      "ChIP-seq (H3K4Me1): Gonad (m, 16 m)",
+      "ChIP-seq (H3K4Me3): Gonad (m, 16 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "immature gonad (f, 9 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "sexually immature",
+    "age": "9.0",
+    "age_unit": "month",
+    "sex": "female",
+    "term": "immature gonad",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Immature gonad (f, 9 m)",
+      "ChIP-seq (H3K27Ac): Immature gonad (f, 9 m)",
+      "ChIP-seq (H3K4Me1): Immature gonad (f, 9 m)",
+      "ChIP-seq (H3K4Me3): Immature gonad (f, 9 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "immature gonad (m, 9 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "sexually immature",
+    "age": "9.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "immature gonad",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Immature gonad (m, 9 m)",
+      "ChIP-seq (H3K27Ac): Immature gonad (m, 9 m)",
+      "ChIP-seq (H3K4Me1): Immature gonad (m, 9 m)",
+      "ChIP-seq (H3K4Me3): Immature gonad (m, 9 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (f, 16 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "post-juvenile adult",
+    "age": "16.0",
+    "age_unit": "month",
+    "sex": "female",
+    "term": "liver",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Liver (f, 16 m)",
+      "ChIP-seq (H3K27Ac): Liver (f, 16 m)",
+      "ChIP-seq (H3K4Me3): Liver (f, 16 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (f, 9 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "sexually immature",
+    "age": "9.0",
+    "age_unit": "month",
+    "sex": "female",
+    "term": "liver",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Liver (f, 9 m)",
+      "ChIP-seq (H3K27Ac): Liver (f, 9 m)",
+      "ChIP-seq (H3K4Me1): Liver (f, 9 m)",
+      "ChIP-seq (H3K4Me3): Liver (f, 9 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (m, 16 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "post-juvenile adult",
+    "age": "16.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "liver",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Liver (m, 16 m)",
+      "ChIP-seq (H3K27Ac): Liver (m, 16 m)",
+      "ChIP-seq (H3K4Me1): Liver (m, 16 m)",
+      "ChIP-seq (H3K4Me3): Liver (m, 16 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K27ac",
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  },
+  {
+    "name": "liver (m, 9 mo)",
+    "material": "Primary Tissue",
+    "life_stage": "sexually immature",
+    "age": "9.0",
+    "age_unit": "month",
+    "sex": "male",
+    "term": "liver",
+    "organ_slims": null,
+    "system_slims": null,
+    "assays": [
+      "ATAC-seq: Liver (m, 9 m)",
+      "ChIP-seq (H3K4Me1): Liver (m, 9 m)",
+      "ChIP-seq (H3K4Me3): Liver (m, 9 m)"
+    ],
+    "assay_types": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ],
+    "assay_target_types": [
+      "histone",
+      "open chromatin"
+    ],
+    "assay_targets": [
+      "H3K4me1",
+      "H3K4me3",
+      "open chromatin"
+    ]
+  }
+]

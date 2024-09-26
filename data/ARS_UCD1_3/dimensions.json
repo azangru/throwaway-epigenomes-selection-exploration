@@ -1,0 +1,93 @@
+{
+  "age": {
+    "name": "Age",
+    "values": [
+      {
+        "unit": "month",
+        "max_value": "14",
+        "min_value": "14"
+      }
+    ]
+  },
+  "sex": {
+    "name": "Sex",
+    "values": [
+      "male"
+    ]
+  },
+  "term": {
+    "name": "Biosample term",
+    "values": [
+      {
+        "name": "frontal cortex",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001870"
+      },
+      {
+        "name": "left lung lobe",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0008951"
+      },
+      {
+        "name": "subcutaneous adipose tissue",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002190"
+      },
+      {
+        "name": "longissimus dorsi muscle",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001112"
+      },
+      {
+        "name": "hypothalamus",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001898"
+      },
+      {
+        "name": "spleen",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002106"
+      },
+      {
+        "name": "lobe of liver",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001113"
+      },
+      {
+        "name": "cerebellum",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002037"
+      }
+    ]
+  },
+  "material": {
+    "name": "Biosample material",
+    "values": [
+      "Primary Tissue"
+    ]
+  },
+  "life_stage": {
+    "name": "Life stage",
+    "values": [
+      "adult"
+    ]
+  },
+  "assay_type": {
+    "name": "Assay type",
+    "values": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ]
+  },
+  "assay_target": {
+    "name": "Assay target",
+    "values": [
+      "H3K27me3",
+      "H3K4me3",
+      "H3K27ac",
+      "open chromatin",
+      "H3K4me1",
+      "CTCF"
+    ]
+  },
+  "assay_target_type": {
+    "name": "Assay target type",
+    "values": [
+      "transcription factor",
+      "histone",
+      "open chromatin"
+    ]
+  }
+}

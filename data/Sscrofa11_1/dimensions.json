@@ -1,0 +1,141 @@
+{
+  "age": {
+    "name": "Age",
+    "values": [
+      {
+        "unit": "month",
+        "max_value": "6",
+        "min_value": "6"
+      },
+      {
+        "unit": "day",
+        "max_value": "70",
+        "min_value": "1"
+      }
+    ]
+  },
+  "sex": {
+    "name": "Sex",
+    "values": [
+      "female",
+      "male"
+    ]
+  },
+  "term": {
+    "name": "Biosample term",
+    "values": [
+      {
+        "name": "skin of back",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001068"
+      },
+      {
+        "name": "adipose tissue",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001013"
+      },
+      {
+        "name": "gluteus medius",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001371"
+      },
+      {
+        "name": "liver",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002107"
+      },
+      {
+        "name": "hindbrain",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002028"
+      },
+      {
+        "name": "cortex",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001851"
+      },
+      {
+        "name": "mesonephros",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0000080"
+      },
+      {
+        "name": "ileum",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002116"
+      },
+      {
+        "name": "skeletal muscle tissue",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001134"
+      },
+      {
+        "name": "kidney",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002113"
+      },
+      {
+        "name": "hypothalamus",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001898"
+      },
+      {
+        "name": "small intestine",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002108"
+      },
+      {
+        "name": "hindlimb muscle",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0003663"
+      },
+      {
+        "name": "lung",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002048"
+      },
+      {
+        "name": "skin of body",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002097"
+      },
+      {
+        "name": "spleen",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002106"
+      },
+      {
+        "name": "lobe of liver",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0001113"
+      },
+      {
+        "name": "cerebellum",
+        "ontology": "http://purl.obolibrary.org/obo/UBERON_0002037"
+      }
+    ]
+  },
+  "material": {
+    "name": "Biosample material",
+    "values": [
+      "Primary Tissue"
+    ]
+  },
+  "life_stage": {
+    "name": "Life stage",
+    "values": [
+      "embryo",
+      "adult",
+      "neonate"
+    ]
+  },
+  "assay_type": {
+    "name": "Assay type",
+    "values": [
+      "ATAC-seq",
+      "ChIP-seq"
+    ]
+  },
+  "assay_target": {
+    "name": "Assay target",
+    "values": [
+      "H3K27me3",
+      "H3K4me3",
+      "H3K27ac",
+      "open chromatin",
+      "H3K4me1",
+      "CTCF"
+    ]
+  },
+  "assay_target_type": {
+    "name": "Assay target type",
+    "values": [
+      "transcription factor",
+      "histone",
+      "open chromatin"
+    ]
+  }
+}
